@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
+output.txt
+response.json
+bugs.csv
+report.txt
