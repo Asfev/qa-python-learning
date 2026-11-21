@@ -5,3 +5,4 @@ output.txt
 response.json
 bugs.csv
 report.txt
+.pytest_cache/
