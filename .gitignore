@@ -6,3 +6,6 @@ response.json
 bugs.csv
 report.txt
 .pytest_cache/
+review_data.*
+review_report.*
+missing.json
