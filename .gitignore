@@ -9,3 +9,5 @@ report.txt
 review_data.*
 review_report.*
 missing.json
+fixture_temp.txt
+api_report.txt
