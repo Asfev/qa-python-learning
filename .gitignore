@@ -11,3 +11,4 @@ review_report.*
 missing.json
 fixture_temp.txt
 api_report.txt
+*.log
